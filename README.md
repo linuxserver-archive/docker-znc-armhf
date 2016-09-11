@@ -11,7 +11,7 @@ The [LinuxServer.io][linuxserverurl] team brings you another container release f
 * [Podcast][podcasturl] covers everything to do with getting the most from your Linux Server plus a focus on all things Docker and containerisation!
 
 # lsioarmhf/znc
-[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/znc.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/znc.svg)][hub][![Build Status](http://jenkins.linuxserver.io:8080/buildStatus/icon?job=Dockers/LinuxServer.io-armhf/lsioarmhf-znc)](http://jenkins.linuxserver.io:8080/job/Dockers/job/LinuxServer.io-armhf/job/lsioarmhf-znc/)
+[![](https://images.microbadger.com/badges/image/lsioarmhf/znc.svg)](http://microbadger.com/images/lsioarmhf/znc "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/znc.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/znc.svg)][hub][![Build Status](http://jenkins.linuxserver.io:8080/buildStatus/icon?job=Dockers/LinuxServer.io-armhf/lsioarmhf-znc)](http://jenkins.linuxserver.io:8080/job/Dockers/job/LinuxServer.io-armhf/job/lsioarmhf-znc/)
 [hub]: https://hub.docker.com/r/lsioarmhf/znc/
 
 [ZNC](http://wiki.znc.in/ZNC)  is an IRC network bouncer or BNC. It can detach the client from the actual IRC server, and also from selected channels. Multiple clients from different locations can connect to a single ZNC account simultaneously and therefore appear under the same nickname on IRC.
@@ -70,5 +70,6 @@ To log in to the application, browse to https://<hostip>:6501.
 
 ## Versions
 
++ **11.09.16:** Add layer badges to README.
 + **06.09.16:** Add badges to README.
 + **20.08.16:** Initial Release.
