@@ -70,6 +70,7 @@ To log in to the application, browse to https://<hostip>:6501.
 
 ## Versions
 
++ **11.09.16:** Fix umask.
 + **11.09.16:** Add layer badges to README.
 + **06.09.16:** Add badges to README.
 + **20.08.16:** Initial Release.
